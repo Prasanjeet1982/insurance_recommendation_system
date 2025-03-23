@@ -19,7 +19,7 @@ Ensure you have the following installed:
 
 ### **2️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/insurance-recommendation.git
+git clone https://github.com/Prasanjeet1982/insurance_recommendation_system.git
 cd insurance-recommendation
 ```
 

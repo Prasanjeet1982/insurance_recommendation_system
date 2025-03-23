@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+joblib
+google-generativeai
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+requests
+streamlit
+langchain
+langchain_community

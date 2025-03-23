@@ -97,9 +97,9 @@ venv\Scripts\activate    # Windows
 ```sh
 pip install -r requirements.txt
 ```
-### ** 3 Run FastAPI Backend**
+### ** 3 Run Train Model**
 ```sh
-uvicorn src.main:app --host 0.0.0.0 --port 8000 --reload
+python train_model.py
 ```
 
 ### ** 4 Run FastAPI Backend**
@@ -141,5 +141,5 @@ This project is licensed under the MIT License.
 We welcome contributions! Feel free to fork the repository and submit a PR.
 
 ### **Author:**
-🚀 **Your Name** - [GitHub](https://github.com/your-profile)
+🚀 **Prasanjeet Sikder** - [GitHub](https://github.com/your-profile)
 
